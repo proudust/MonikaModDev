@@ -2056,7 +2056,7 @@ label v0_8_13(version="v0_8_13"):
                     datetime.time(hour=20)
                 )
 
-                d25_sp_tim.end_date = datetime.datetime.combine(
+                d25_sp_tm.end_date = datetime.datetime.combine(
                     mas_d25p,
                     datetime.time(hour=1)
                 )
